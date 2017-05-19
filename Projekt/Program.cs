@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projekt
+namespace Project_KD_Game
 {
     static class Program
     {

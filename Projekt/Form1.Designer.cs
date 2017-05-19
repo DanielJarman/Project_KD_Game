@@ -1,4 +1,4 @@
-﻿namespace Projekt
+﻿namespace Project_KD_Game
 {
     partial class Form1
     {
