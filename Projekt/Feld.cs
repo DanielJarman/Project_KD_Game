@@ -24,7 +24,10 @@ namespace Projekt
         }
 
 
-
+        /// <summary>
+        //fhsdfjkhkdfhskfhsk
+        /// </summary>
+        /// 
         //Get'er & Set'er
         public PictureBox PBox
         {
