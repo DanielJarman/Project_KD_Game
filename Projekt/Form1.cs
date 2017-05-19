@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projekt
+namespace Project_KD_Game
 {
     public partial class Form1 : Form
     {
@@ -44,6 +44,11 @@ namespace Projekt
             {
 
             }
+        }
+
+        public void Draw()
+        {
+
         }
     }
 }
